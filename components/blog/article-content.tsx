@@ -61,6 +61,30 @@ export function ArticleContent({ slug }: ArticleContentProps) {
                 </div>
               )
             }
+            if (paragraph.type === "table") {
+              return (
+                <div key={pIndex} className="my-6 w-full overflow-x-auto rounded-lg border border-border">
+                  <table className="w-full text-left text-sm text-muted-foreground">
+                    <thead className="border-b bg-secondary/30 text-xs uppercase text-foreground">
+                      <tr>
+                        {paragraph.headers?.map((header, hIndex) => (
+                          <th key={hIndex} className="px-6 py-3 font-semibold">{header}</th>
+                        ))}
+                      </tr>
+                    </thead>
+                    <tbody>
+                      {paragraph.rows?.map((row, rIndex) => (
+                        <tr key={rIndex} className="border-b last:border-0 hover:bg-secondary/10">
+                          {row.map((cell, cIndex) => (
+                            <td key={cIndex} className="px-6 py-4">{cell}</td>
+                          ))}
+                        </tr>
+                      ))}
+                    </tbody>
+                  </table>
+                </div>
+              )
+            }
             return null
           })}
         </section>
