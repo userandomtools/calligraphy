@@ -1325,489 +1325,1015 @@ export const articleContents: Record<string, ArticleFullContent> = {
   "calligraphy-heading-ideas-for-notes": {
     sections: [
       {
-        id: "styles",
-        title: "Heading Styles for Notes",
+        id: "hook-answer",
+        title: "Calligraphy Heading Ideas to Organize Your Notes",
         content: [
-          { type: "paragraph", text: "Beautiful headings transform ordinary notes into works of art. Even simple techniques make a significant visual difference." },
+          { type: "paragraph", text: "Calligraphy headings in your class notes or bullet journal create a powerful visual hierarchy that actively improves your memory and study recall. By using rapid focal-point techniques like a highlighted 'Drop Cap', a faux-calligraphy banner, or a bold minimalist script, you can instantly transform an overwhelming wall of text into a highly scannable, organized document." }
+        ]
+      },
+      {
+        id: "what-you-will-learn",
+        title: "What You'll Learn",
+        content: [
           { type: "list", items: [
-            "Large capital first letter with smaller following letters",
-            "Underlines with flourishes",
-            "Boxed or bannered headings",
-            "Shadow lettering for emphasis",
-            "Combination of print and script styles"
+            "The psychological benefit of assigning specific fonts to specific subjects.",
+            "3 lightning-fast heading styles that take under 10 seconds to draw.",
+            "How to use a cheap standard highlighter as a broad-edge calligraphy marker.",
+            "The 'Script-and-Block' layout rule for ultimate legibility."
           ]}
         ]
       },
       {
-        id: "practical-tips",
-        title: "Practical Tips for Note-Taking",
+        id: "core-concept",
+        title: "The Core Concept: Visual Indexing",
+        content: [
+          { type: "paragraph", text: "When you flip back through a notebook weeks later, your brain looks for visual anchors. If your headings look identical to your body paragraphs, your brain has to work harder to find the start of a topic. Calligraphy headings act as a 'Visual Index'. A massive, flourishing cursive word instantly signals a new chapter, while a structured block-letter sub-heading signals a new paragraph. The goal is speed, structure, and aesthetic beauty." }
+        ]
+      },
+      {
+        id: "practical-guide",
+        title: "Step-by-Step Practical Guide: 3 Easy Headings",
+        content: [
+          { type: "paragraph", text: "Here are three rapid-fire heading layouts you can use today:" },
+          { type: "ordered-list", items: [
+            "Style 1: The Drop Cap. Write the very first letter of the heading massive, thick, and fully flourished. Write the rest of the word in standard block print right beside it. It looks incredibly academic.",
+            "Style 2: The Tape Banner. Take a pastel highlighter and draw a single, thick horizontal line. Then, take a black fine-liner pen and write your cursive calligraphy directly over the top of the highlighted bar.",
+            "Style 3: Script & Spaced Block. Write your main topic (e.g., 'BIOLOGY') in small, widely-spaced capital letters. Then, write the sub-topic (e.g., 'Photosynthesis') in overlapping, heavy brush calligraphy sitting directly on top of the block letters."
+          ]}
+        ]
+      },
+      {
+        id: "pro-mistakes",
+        title: "Beginner Mistakes & Pro Tips",
+        content: [
+          { type: "paragraph", text: "Do not write your entire page of notes in calligraphy. It will take you four hours to write a single page, and it will be completely illegible when you try to study for an exam." },
+          { type: "tip", text: "Standard chisel-tip highlighters are secretly amazing calligraphy tools! Hold the highlighter at a strict 45-degree angle, and you can write perfect Italic and Gothic Blackletter headings instantly." },
+          { type: "callout", text: "Beware of bleeding ink. If you are using Tombow Brush Pens in a cheap notebook, the ink will bleed through to the back of the page, ruining the reverse side. Use gel pens for faux-calligraphy instead if paper quality is low." }
+        ]
+      },
+      {
+        id: "styles",
+        title: "Aesthetic Core Themes",
         content: [
           { type: "list", items: [
-            "Prepare heading styles in advance to save time",
-            "Use consistent colors for hierarchy",
-            "Keep decorations simple enough to repeat",
-            "Practice your most-used headings until automatic",
-            "Balance beauty with readability"
-          ]},
-          { type: "tip", text: "Create a reference page with your favorite heading styles. Refer to it when setting up new notebooks." }
+            "Dark Academia: Black, sepia, and gold Gothic lettering with straight underlined borders.",
+            "Pastel Minimalist: Monoline connected cursive paired with mild pastel highlighter swatches.",
+            "Vintage Botanical: Bouncy brush script flanked by tiny hand-drawn olive branches and leaves."
+          ]}
+        ]
+      },
+      {
+        id: "structured-breakdown",
+        title: "Heading Toolkit Comparison",
+        content: [
+          { 
+            type: "table", 
+            headers: ["Heading Style", "Tool Required", "Time to Execute", "Vibe"],
+            rows: [
+              ["Highlighter Ribbon", "Mildliner + Fineliner", "5 seconds", "Clean, Fast, Study-focused"],
+              ["Drop Cap Block", "Brush Pen + Ballpoint", "10 seconds", "Academic, Books, Literature"],
+              ["Script Over Print", "Two contrasting colors", "15 seconds", "Trendy, Bujo, Artistic"],
+              ["Faux Ribbon Banner", "Fineliner only", "30 seconds", "Vintage, Detailed, Planners"]
+            ]
+          }
+        ]
+      },
+      {
+        id: "conclusion",
+        title: "Conclusion & Next Steps",
+        content: [
+          { type: "paragraph", text: "You don't need to be a master artist to make your notes beautiful. Learn to utilize contrast—pairing a thick, colorful script with tight, black capital letters will instantly command attention on the page and make studying vastly more enjoyable." }
         ]
       }
     ],
     faqs: [
-      { question: "How do I find time for calligraphy in busy note-taking?", answer: "Focus calligraphy only on main headings. Use faster methods for subheadings, and standard handwriting for body content." },
-      { question: "Will calligraphy make my notes harder to review?", answer: "Well-designed calligraphy headings actually improve note navigation by making sections visually distinct and memorable." }
+      { question: "How do I make time for calligraphy during a fast lecture?", answer: "You don't. During a lecture, leave a blank gap at the top of your section and quickly jot down the topic in pencil. When you go home to review your notes, ink over the pencil with a beautiful calligraphy heading. This forces you to review the material." },
+      { question: "Will calligraphy markers ruin my notebook paper?", answer: "Yes, water-based markers like Tombows will ghost or bleed through standard 20lb notebook paper. Purchase a notebook with at least 100gsm paper (like Rhodia or Leuchtturm) if you intend to use brush pens." },
+      { question: "What is the best pen for small headings?", answer: "For headings under half an inch tall, the Tombow Fudenosuke Hard Tip or the Pentel Touch Sign Pen are flawless. A large dual-brush pen simply cannot write small enough for a standard notebook line." }
     ]
   },
 
   "how-to-write-quotes-in-calligraphy": {
     sections: [
       {
-        id: "layout",
-        title: "Planning Your Quote Layout",
+        id: "hook-answer",
+        title: "How to Layout & Write Quotes in Calligraphy",
         content: [
-          { type: "paragraph", text: "Successful quote calligraphy starts with good planning. Before you write anything, sketch rough layouts considering word emphasis, line breaks, and overall composition." },
+          { type: "paragraph", text: "Writing a beautiful quote in calligraphy is entirely an exercise in typography planning, not just handwriting. The secret to a breathtaking composition is establishing 'Hierarchy of Weight'—writing the emotionally significant words (like 'Love', 'Brave', or 'Dream') massively large in bold script, while shrinking connecting words (like 'and', 'the', or 'to') into tiny, minimalist block print so they fade into the background." }
+        ]
+      },
+      {
+        id: "what-you-will-learn",
+        title: "What You'll Learn",
+        content: [
+          { type: "list", items: [
+            "Why writing a quote in one continuous script looks chaotic and unreadable.",
+            "How to map out 'Hierarchy' by isolating hero words.",
+            "The Thumbnail Sketching method used by professional letterers.",
+            "How to interlock ascenders and descenders like puzzle pieces."
+          ]}
+        ]
+      },
+      {
+        id: "core-concept",
+        title: "The Core Concept: Visual Hierarchy",
+        content: [
+          { type: "paragraph", text: "When you read a quote on Instagram, you don't actually read every word simultaneously. Your eye jumps to the largest, thickest words first. If you write 'To Be Or Not To Be' all in the exact same loopy calligraphy font, it looks like a barcode of loops. If you isolate 'BE' and 'NOT' in massive, heavy brush script, and shrink the rest, you manipulate the reader's eye to process the emotion of the phrase instantly. Design is manipulation." }
+        ]
+      },
+      {
+        id: "practical-guide",
+        title: "Step-by-Step Practical Guide: The Layout Method",
+        content: [
+          { type: "paragraph", text: "Do not touch your good paper yet. Grab scrap paper and follow these steps:" },
           { type: "ordered-list", items: [
-            "Count the words and syllables",
-            "Identify keywords to emphasize",
-            "Sketch 3-4 layout options",
-            "Consider the final display format",
-            "Choose the strongest composition"
+            "Step 1: The Word Map. Write the quote in normal handwriting. Circle the 2 or 3 most powerful 'Hero' words. Cross out the boring connector words.",
+            "Step 2: The Thumbnail. Draw three tiny, 2-inch boxes on your scrap paper. Do quick sketch layouts. Try one centered. Try one aligned to the left. Try one inside a circle.",
+            "Step 3: The Puzzle Pieces. Look at your Hero words. Does one have a dropping 'y'? Does the word below it have a tall 'h'? Shift the words left or right so the 'y' and 'h' interlock rather than crash into each other.",
+            "Step 4: The Final Draft. Transfer your best thumbnail to your good paper using a soft pencil and a ruler. Only once the pencil layout is perfect do you uncap your ink."
           ]}
         ]
       },
       {
-        id: "hierarchy",
-        title: "Creating Visual Hierarchy",
+        id: "pro-mistakes",
+        title: "Beginner Mistakes & Pro Tips",
         content: [
-          { type: "paragraph", text: "Not all words in a quote deserve equal emphasis. Use size, style, and weight variations to guide the reader through your piece." },
+          { type: "paragraph", text: "The biggest beginner mistake is 'Trapping White Space'. This happens when you accidentally leave a massive, awkward gap between two lines on the left side, while the right side is entirely cramped. Your text block should feel evenly balanced and visually cohesive." },
+          { type: "tip", text: "Use the 'Crossbar Cheat'. If you have an awkward gap you need to fill on a line, dramatically extend the horizontal crossbar of a 'T' or 'H' to sweep across the empty space." },
+          { type: "callout", text: "Never put attribution (the author's name) in the same massive calligraphy script as the quote. Write the author's name very small in the bottom right corner using clean block print." }
+        ]
+      },
+      {
+        id: "styles",
+        title: "Composition Shapes",
+        content: [
           { type: "list", items: [
-            "Larger size for important words",
-            "Bold or thick strokes for emphasis",
-            "Script vs. print for variety",
-            "Color for highlighting key concepts",
-            "Flourishes for decoration, not distraction"
+            "The Centered Stack: Highly formal, symmetric, perfect for wedding readings and Bible verses.",
+            "The Flush-Left Modern: Left aligned, staggered right edges. Very trendy, easy to read.",
+            "The Silhouette: Forcing the words to stretch and compress so the entire paragraph forms a specific shape (like a heart or an hourglass)."
           ]}
         ]
       },
       {
-        id: "composition",
-        title: "Composition Techniques",
+        id: "structured-breakdown",
+        title: "Font Mixing Matrix",
         content: [
-          { type: "list", items: [
-            "Centered alignment: Traditional, formal feel",
-            "Left alignment: Modern, easy to read",
-            "Shaped text: Words form overall shape",
-            "Mixed alignment: Dynamic, contemporary",
-            "Circular or curved: Unique, artistic"
-          ]},
-          { type: "tip", text: "The shape of your composition should complement the meaning of the quote. Positive, uplifting quotes work well with ascending layouts." }
+          { 
+            type: "table", 
+            headers: ["Word Importance", "Recommended Font Style", "Visual Weight"],
+            rows: [
+              ["Hero Words (Nouns/Verbs)", "Heavy Brush Script or Blackletter", "Massive (Primary Focus)"],
+              ["Secondary Words (Adjectives)", "Monoline Cursive or Thin Italic", "Medium (Supporting Detail)"],
+              ["Connector Words (And, To, The)", "Tiny Sans-Serif Block Print", "Minimal (Nearly Invisible)"],
+              ["Author / Attribution", "Spaced Serif Capitals", "Anchor (Grounds the piece)"]
+            ]
+          }
+        ]
+      },
+      {
+        id: "conclusion",
+        title: "Conclusion & Next Steps",
+        content: [
+          { type: "paragraph", text: "Beautiful calligraphy applied to a terrible layout is still a terrible artwork. Spend 70% of your time drafting the composition in pencil, isolating the Hero words, and drawing guidelines. Tracing it with ink should be the fastest and easiest part of the process." }
         ]
       }
     ],
     faqs: [
-      { question: "How do I avoid mistakes when writing long quotes?", answer: "Write each word on separate paper first to verify spelling and spacing. Use light pencil guidelines that can be erased after inking." },
-      { question: "Should I include attribution in the design?", answer: "Yes, but typically smaller and in a contrasting style. The quote should remain the visual focus while attribution provides context." }
+      { question: "How do I keep my lines straight when writing quotes?", answer: "You absolutely must use a ruler and pencil to draw horizontal baselines. Even master calligraphers with 30 years of experience draw pencil baselines. The human eye cannot naturally track a perfect horizontal line across a blank page." },
+      { question: "Should I write the quote out on practice paper first?", answer: "Yes, 'Thumbnailing' is a non-negotiable step. Draw small versions of the quote to solve awkward letter collisions (like a 'g' crashing into a 't' below it) before you ruin a $5 sheet of watercolor paper." },
+      { question: "How many different fonts should I mix?", answer: "A golden rule of design is to never mix more than two distinct font styles in a single quote. Typically, use one sweeping Calligraphy script for the Hero words, and one stark Capital Block print for everything else." }
     ]
   },
 
   "calligraphy-mistakes-beginners-should-avoid": {
     sections: [
       {
-        id: "tool-mistakes",
-        title: "Tool-Related Mistakes",
+        id: "hook-answer",
+        title: "The Most Common Calligraphy Mistakes Beginners Make",
         content: [
-          { type: "list", items: [
-            "Using the wrong paper, causing bleeding and feathering",
-            "Holding the pen at incorrect angles",
-            "Pressing too hard on upstrokes",
-            "Using dried-out or low-quality pens",
-            "Not cleaning nibs properly between sessions"
-          ]},
-          { type: "paragraph", text: "Many beginners blame their skills when tool problems are actually to blame. Use appropriate paper and maintain your tools properly." }
+          { type: "paragraph", text: "The absolute worst mistake a beginner calligrapher can make is trying to learn by writing full words on unlined printer paper. Real progress only happens when you isolate individual, microscopic strokes on a rigidly slanted grid using high-quality coated marker paper; anything else is simply repeating and memorizing bad habits." }
         ]
       },
       {
-        id: "technique-mistakes",
-        title: "Technique Mistakes",
+        id: "what-you-will-learn",
+        title: "What You'll Learn",
         content: [
           { type: "list", items: [
-            "Rushing through practice without focus",
-            "Skipping basic stroke practice",
-            "Inconsistent letter sizing",
-            "Varying slant within the same piece",
-            "Over-flourishing at the expense of legibility"
-          ]},
-          { type: "tip", text: "Slow down. Speed develops naturally from correct technique. Rushing creates bad habits that are harder to unlearn than to avoid." }
-        ]
-      },
-      {
-        id: "learning-mistakes",
-        title: "Learning Process Mistakes",
-        content: [
-          { type: "list", items: [
-            "Trying to learn too many styles at once",
-            "Comparing yourself to professionals with years of experience",
-            "Not dating practice sheets to track progress",
-            "Practicing without reference materials",
-            "Giving up too soon during the difficult middle phase"
+            "Why the 'Death Grip' is causing your lines to wobble.",
+            "Why standard copy paper will destroy your expensive brush pens in a week.",
+            "The mistake of 'Cursive Calligraphy' and why you must lift your pen.",
+            "How to stop skipping straight to flourishes."
           ]}
+        ]
+      },
+      {
+        id: "core-concept",
+        title: "The Core Concept: Drawing vs. Handwriting",
+        content: [
+          { type: "paragraph", text: "The grandest misconception in calligraphy is treating it like handwriting. Handwriting is a fast, subconscious, continuous kinetic motion. Calligraphy is rendering art. It is a slow, methodical, piece-by-piece construction of geometry. If you write your name in calligraphy as fast as you sign a receipt, the spacing will collapse, the x-heights will jag, and the letters will crash. You must shift your brain from 'writing a word' to 'drawing shapes'." }
+        ]
+      },
+      {
+        id: "practical-guide",
+        title: "Step-by-Step Practical Guide: Fixing The Big Four",
+        content: [
+          { type: "paragraph", text: "Audit yourself right now. Are you committing any of these offenses?" },
+          { type: "ordered-list", items: [
+            "Fix 1: Stop Using Printer Paper. Standard 20lb paper has microscopic wood fibers that act like a sponge, causing ink to 'feather' and literally tearing the delicate felt tip of your pen. Buy HP 32lb Premium Laser Paper. It is glassy smooth.",
+            "Fix 2: Lift Your Pen. Do not write the word 'apple' without picking up the pen. You should physically pause and lift the pen entirely off the page between 4 and 6 times just to construct the letter 'a'.",
+            "Fix 3: Fix the Death Grip. If your knuckles are white and your index finger is dented, you are choking the pen. Relax. Tension in the hand translates directly into wobbly, jagged lines on the paper.",
+            "Fix 4: Print a Slant Guide. If you are practicing without a printed 55-degree slant line underneath your paper, you are guessing the angle. Stop guessing. Force your hand to conform to a grid."
+          ]}
+        ]
+      },
+      {
+        id: "pro-mistakes",
+        title: "Advanced Errors & Pro Tips",
+        content: [
+          { type: "paragraph", text: "A massive technique error is writing entirely from the wrist. If you plant your wrist firmly on the desk and try to write a long word, your hand will naturally arc, causing the baseline to warp into a rainbow shape." },
+          { type: "tip", text: "Lock your wrist and write from the shoulder. Slide your entire forearm smoothly across the desk as you progress through the word." },
+          { type: "callout", text: "Never draw flourishes before you master the alphabet foundations. Adding flourishes to wobbly, poorly spaced letters is like putting a spoiler on a rusted car." }
+        ]
+      },
+      {
+        id: "styles",
+        title: "Mistakes Specific to Tools",
+        content: [
+          { type: "list", items: [
+            "Pointed Metal Nibs: Pressing hard on upstrokes. The metal tines will dig into the paper, snag, and flick ink everywhere.",
+            "Brush Pens: Holding the pen vertically at 90 degrees. It must be dragged at a 45-degree pivot.",
+            "Broad-Edge (Parallel Pens): Rotating the pen mid-stroke. The flat edge must stay at an immovable 45-degree angle the entire time."
+          ]}
+        ]
+      },
+      {
+        id: "structured-breakdown",
+        title: "Symptom and Cure Matrix",
+        content: [
+          { 
+            type: "table", 
+            headers: ["The Ugly Symptom", "The Root Cause Mistake", "The Immediate Fix"],
+            rows: [
+              ["Wobbly / Shaky Lines", "Tense Grip & Moving too slowly", "Relax hand, exhale, accelerate slightly"],
+              ["Ink Bleeding / Spiderweb edges", "Cheap fibrous paper", "Switch to 32lb Laser Paper or Rhodia"],
+              ["Letters look clustered/cramped", "Not lifting pen between strokes", "Lift pen completely after every stroke"],
+              ["Slant is inconsistent", "No guidelines / Writing from wrist", "Print a slant guide, move from shoulder"],
+              ["Pen tip is fuzzy/frayed", "Pressing hard on upstrokes", "Release all pressure on the upward path"]
+            ]
+          }
+        ]
+      },
+      {
+        id: "conclusion",
+        title: "Conclusion & Next Steps",
+        content: [
+          { type: "paragraph", text: "Every master calligrapher has made these exact same mistakes. The difference is they identified them and course-corrected. Put down the cheap notebook paper, print out a dedicated practice grid, loosen your grip, and respect the process of drawing geometry." }
         ]
       }
     ],
     faqs: [
-      { question: "How do I know if I am practicing wrong?", answer: "Record yourself or take photos of your work process. Compare to tutorials and seek feedback from experienced calligraphers in online communities." },
-      { question: "Should I start over when I make a mistake?", answer: "Not always. Learning to work around mistakes is a valuable skill. Only restart if the mistake is truly unfixable or in a very prominent position." }
+      { question: "Why does my hand cramp so badly when I practice?", answer: "You are experiencing the 'Death Grip'. Because calligraphy requires precision, beginners subconsciously squeeze the pen barrel with extreme force. Consciously remind yourself to loosen your grip every 60 seconds." },
+      { question: "Why is it bad to write words cursively without stopping?", answer: "If you don't stop, you cannot readjust the pen angle. Calligraphy requires you to lift the pen, reposition it at the optimal starting point for the next stroke, and execute it cleanly. Connected cursive causes muddy, skewed letters." },
+      { question: "Is it okay to trace over worksheets?", answer: "Yes! Tracing is not only 'okay', it is absolutely mandatory for beginners. Tracing builds the essential muscle memory of correct angles and pressure release before you attempt them freehand." }
     ]
   },
 
   "how-to-practice-calligraphy-daily": {
     sections: [
       {
-        id: "routine",
-        title: "Building Your Daily Practice Routine",
+        id: "hook-answer",
+        title: "How to Build a Daily Calligraphy Practice Routine",
         content: [
-          { type: "paragraph", text: "Consistent daily practice is the secret to calligraphy improvement. Even 15-20 minutes per day produces better results than occasional marathon sessions." },
+          { type: "paragraph", text: "You will improve significantly faster practicing calligraphy for 15 focused minutes a day than you will practicing for three exhausted hours once a week. Muscle memory is built on high-frequency repetition; developing a rigid, isolating daily drill protocol guarantees massive improvements in line consistency in exactly 21 days." }
+        ]
+      },
+      {
+        id: "what-you-will-learn",
+        title: "What You'll Learn",
+        content: [
+          { type: "list", items: [
+            "Why weekend 'Marathon Sessions' actually damage your unlearned muscle memory.",
+            "The 15-Minute focused breakdown (Warm-up, Isolate, Context).",
+            "How to structure a Monday-to-Sunday skill progression routine.",
+            "The exact basic strokes you must drill every single morning."
+          ]}
+        ]
+      },
+      {
+        id: "core-concept",
+        title: "The Core Concept: Neurological Consistency",
+        content: [
+          { type: "paragraph", text: "Calligraphy is not an intellectual challenge; it is a neurological and muscular one. The tendons in your hand must learn exactly how much micro-voltage to fire to maintain a 55-degree slant while simultaneously releasing downward pressure. Your brain only commits these movements to permanent muscle memory through daily sleep cycles. A 15-minute daily drill gives your brain the data it needs to wire the neurons overnight. Long gaps between practices let those fragile connections wither." }
+        ]
+      },
+      {
+        id: "practical-guide",
+        title: "Step-by-Step Practical Guide: The 15-Minute Protocol",
+        content: [
+          { type: "paragraph", text: "Do not practice blindly. Follow this exact timed structure:" },
           { type: "ordered-list", items: [
-            "Set a specific time each day for practice",
-            "Prepare your supplies in advance",
-            "Start with warm-up strokes",
-            "Focus on specific skills each session",
-            "End with free writing to apply learning"
+            "Minutes 0 to 3 (The Warm-up): Draw continuous, overlapping oval loops across the entire page without lifting your pen. This lubricates the shoulder socket and breaks the 'death grip' in the fingers.",
+            "Minutes 3 to 10 (The Isolation Drill): Pick exactly ONE fundamental stroke (e.g., the Ascending Loop that makes the top of an 'h' or 'l'). Draw it 30 times in a row perfectly aligned to your slant guides.",
+            "Minutes 10 to 14 (The Context Integration): Take that isolated stroke and build a word containing it. (e.g., write 'hello' or 'little' repeatedly).",
+            "Minute 15 (The Red Pen Audit): Put the brush pen away. Take a red ballpoint pen and circle the single best loop you drew, and cross out the worst three. Analyze why they failed."
           ]}
         ]
       },
       {
-        id: "weekly-plan",
-        title: "Sample Weekly Practice Plan",
+        id: "pro-mistakes",
+        title: "Beginner Mistakes & Pro Tips",
         content: [
-          { type: "list", items: [
-            "Monday: Basic strokes and pressure drills",
-            "Tuesday: Lowercase letters (one group)",
-            "Wednesday: Uppercase letters",
-            "Thursday: Letter connections and words",
-            "Friday: Phrases and sentences",
-            "Saturday: Creative projects",
-            "Sunday: Review and rest"
-          ]},
-          { type: "tip", text: "Allow one rest day per week. Your brain consolidates learning during breaks, and you will return refreshed." }
+          { type: "paragraph", text: "The fastest way to plateau is 'Mindless Repetition'. Writing the alphabet from A to Z once a day accomplishes absolutely nothing because by the time you reach 'z', you have already forgotten the mechanical error you made on 'a'. You must practice one letter 26 times, not 26 letters one time." },
+          { type: "tip", text: "Leave your pen and a pad of paper permanently sitting open on your desk. If you have to dig your supplies out of a drawer, you will skip practice. Remove all friction." },
+          { type: "callout", text: "If your hand starts cramping at minute 5, stop immediately. You are squeezing too hard. Shake out the tension and reset." }
         ]
       },
       {
-        id: "motivation",
-        title: "Staying Motivated",
+        id: "styles",
+        title: "The 7-Day Curriculum",
         content: [
           { type: "list", items: [
-            "Track your practice in a dedicated journal",
-            "Set small, achievable weekly goals",
-            "Share progress with online communities",
-            "Create projects that showcase your improving skills",
-            "Study inspiring calligraphers for motivation"
+            "Monday: Drill Underturns and Overturns.",
+            "Tuesday: Drill compound curves and Ovals.",
+            "Wednesday: Drill Ascending and Descending Loops.",
+            "Thursday: Assemble Lowercase letters (a, c, e, o, m...).",
+            "Friday: Assemble complex letters (h, l, g, j).",
+            "Saturday: Connect strings of letters (e.g., 'minimum').",
+            "Sunday: Rest your muscles and analyze your worksheets."
           ]}
+        ]
+      },
+      {
+        id: "structured-breakdown",
+        title: "Practice Routine Comparison",
+        content: [
+          { 
+            type: "table", 
+            headers: ["Practice Style", "Frequency", "Focus Method", "Expected Result"],
+            rows: [
+              ["The 15-Min Daily Drill", "7 days/week", "1 Stroke Isolation", "Rapid muscle memory in 3 weeks"],
+              ["The Notebook Doodle", "Randomly in class", "Drawing random words", "Zero foundational improvement"],
+              ["The Sunday Marathon", "Once a week (3 hrs)", "Writing full alphabets", "Fatigue, frustration, bad habits"],
+              ["The Copycat Method", "Daily", "Tracing master sheets perfectly", "Excellent structural geometry"]
+            ]
+          }
+        ]
+      },
+      {
+        id: "conclusion",
+        title: "Conclusion & Next Steps",
+        content: [
+          { type: "paragraph", text: "Stop telling yourself you 'don't have time' for calligraphy. We all have 15 minutes. Print a stack of grid paper, buy a Tombow Fudenosuke, and commit to the 15-Minute Isolation Protocol for 21 days. You will be astounded by the results." }
         ]
       }
     ],
     faqs: [
-      { question: "What if I miss a practice day?", answer: "One missed day is fine. Simply resume the next day. Multiple missed days compound, so aim for consistency but do not beat yourself up over occasional breaks." },
-      { question: "How long until daily practice shows results?", answer: "Most people notice improvement within 2-3 weeks of consistent daily practice. Significant skill development takes 3-6 months." }
+      { question: "Should I practice the alphabet every day?", answer: "No. You should practice the 'Fundamental Strokes' every day. The alphabet is just an assembly of 8 basic root strokes. If you perfect the strokes, the alphabet builds itself flawlessly." },
+      { question: "What if I miss a day of practice?", answer: "Missing one day is perfectly fine; in fact, an occasional rest day allows muscles to consolidate. But missing three days begins the rapid decay of that delicate muscle memory." },
+      { question: "Is tracing worksheets considered good practice?", answer: "Tracing is the absolute BEST practice. Tracing forces your hand to learn the exact physical angle and pressure release points that a master calligrapher uses. Hand-eye coordination is learned by physical mimicry." }
     ]
   },
 
   "calligraphy-worksheets-pdf-free": {
     sections: [
       {
-        id: "types",
-        title: "Types of Worksheets Available",
+        id: "hook-answer",
+        title: "Free Calligraphy Worksheets: The Best Way to Learn",
         content: [
-          { type: "paragraph", text: "Free calligraphy worksheets come in various types, each serving different practice needs." },
+          { type: "paragraph", text: "The fastest way to learn hand lettering without spending money on expensive courses is to download free PDF calligraphy worksheets. By printing structured tracing guides on high-quality 32lb laser paper, you can literally trace the exact muscle movements of master calligraphers until the pressure angles become second nature to you." }
+        ]
+      },
+      {
+        id: "what-you-will-learn",
+        title: "What You'll Learn",
+        content: [
           { type: "list", items: [
-            "Basic stroke practice sheets",
-            "Full alphabet reference sheets",
-            "Tracing guides for beginners",
-            "Blank guideline sheets",
-            "Word and phrase practice sheets",
-            "Slant guide overlays"
+            "Why 'Tracing' is the gold standard of learning calligraphy.",
+            "The difference between Stroke sheets, Alphabet sheets, and Slant guides.",
+            "Why standard printer paper will ruin your practice.",
+            "How to structure your worksheet usage to guarantee progress."
           ]}
         ]
       },
       {
-        id: "using-worksheets",
-        title: "How to Use Worksheets Effectively",
+        id: "core-concept",
+        title: "The Core Concept: Neurological Mimicry",
         content: [
+          { type: "paragraph", text: "Beginners often feel that tracing is 'cheating'. In reality, tracing is 'Neurological Mimicry'. When you look at a letter visually, you can only guess how the author moved their hand. When you physically trace an expertly mapped worksheet, your muscles are forced to obey the correct heavy pressure on the downstrokes and the light pressure on the upstrokes. Tracing prevents you from accidentally practicing and memorizing the wrong technique." }
+        ]
+      },
+      {
+        id: "practical-guide",
+        title: "Step-by-Step Practical Guide: Printing & Using Sheets",
+        content: [
+          { type: "paragraph", text: "Do not just print the alphabet and wing it. Follow this curriculum:" },
           { type: "ordered-list", items: [
-            "Print on smooth paper for best results",
-            "Start with tracing before freehand practice",
-            "Focus on one letter or stroke type per session",
-            "Date your worksheets to track progress",
-            "Save completed sheets for motivation"
-          ]},
-          { type: "tip", text: "Laminate blank guideline sheets and use them with dry-erase markers for infinite reusable practice." }
+            "Step 1: Buy Premium Paper. Never print worksheets on standard 20lb printer paper (it will shred your brush pens). Feed 'HP Premium 32lb Laser Paper' into your printer instead. It is glassy and smooth.",
+            "Step 2: Print Basic Strokes. Start with sheets that only feature straight lines, ovals, and U-turns. Trace them to warm up.",
+            "Step 3: Overlay Practice. Use a blank grid sheet or a slant-guide. Place a light-pad (or use a bright window) underneath your paper to trace complex letters without ink directly on the worksheet.",
+            "Step 4: The 3-to-1 Method. Trace the master letter exactly matching the speed and pressure. Then, try to draw it freehand three times immediately next to it. Compare the copies."
+          ]}
         ]
       },
       {
-        id: "where-to-find",
-        title: "Where to Find Free Worksheets",
+        id: "pro-mistakes",
+        title: "Beginner Mistakes & Pro Tips",
+        content: [
+          { type: "paragraph", text: "The ultimate error is rushing to write fully connected cursive words before you have mastered the foundational 'Basic Strokes' worksheet. If you cannot draw a perfect, isolated 'oval' with a heavy left side and a hairline right side, you cannot draw an 'a', 'o', 'd', 'g', or 'q'." },
+          { type: "tip", text: "Laminate a blank slant-guideline worksheet or place it inside a clear plastic clipboard sleeve! Then, practice over it with dry-erase markers until you get the movement right. Infinite free practice." },
+          { type: "callout", text: "Match the pen to the sheet. Do not print a 'Small Brush Pen Worksheet' (designed for Tombow Fudenosuke) and try to trace it using a massive Tombow Dual Brush. The ink will instantly spill out of the guidelines." }
+        ]
+      },
+      {
+        id: "styles",
+        title: "Essential Worksheet Types",
         content: [
           { type: "list", items: [
-            "Calligraphy blogs and websites",
-            "Pinterest for curated collections",
-            "YouTube tutorial descriptions",
-            "Instagram calligrapher accounts",
-            "Brush pen manufacturer websites"
+            "Basic Stroke Drills: Ovals, Underturns, Ascending loops.",
+            "Lowercase Mastery: Isolating the difficult miniscules.",
+            "Majuscule (Capital) Focus: Big, sweeping alphabet drills.",
+            "Connection Sheets: Tracing how an 'o' connects dynamically to an 'r'."
           ]}
+        ]
+      },
+      {
+        id: "structured-breakdown",
+        title: "Worksheet Progression Plan",
+        content: [
+          { 
+            type: "table", 
+            headers: ["Worksheet Type", "When to Use", "Primary Goal"],
+            rows: [
+              ["Blank 55° Slant Grid", "Always", "Keeps angles mathematically perfect."],
+              ["Basic Strokes (8 shapes)", "Weeks 1 - 2", "Understanding pressure release points."],
+              ["Lowercase Alphabet", "Weeks 2 - 4", "Geometry of standard letterforms."],
+              ["Word Connections", "Months 2+", "Learning flow and spacing rhythm."]
+            ]
+          }
+        ]
+      },
+      {
+        id: "conclusion",
+        title: "Conclusion & Next Steps",
+        content: [
+          { type: "paragraph", text: "Worksheets are the unspoken cheat code to mastering calligraphy. Search for free PDF resources, load up your printer with high-quality 32lb paper to protect your pens, and start tracing your way to perfect muscle memory today." }
         ]
       }
     ],
     faqs: [
-      { question: "What paper should I print worksheets on?", answer: "Use smooth, heavyweight paper like HP Premium LaserJet or dedicated marker paper. Standard copy paper may cause bleeding with brush pens." },
-      { question: "How many times should I practice each worksheet?", answer: "Practice each worksheet until you feel comfortable with the content, typically 3-5 complete sessions. Then move on while occasionally returning for review." }
+      { question: "Can I use standard copy paper to print calligraphy worksheets?", answer: "Absolutely not. Standard copy paper has rough, aggressive fibers that will instantly fray and destroy the delicate felt tip of any brush pen, leading to bleeding ink. Always use premium coated paper like HP 32lb Laser." },
+      { question: "Is tracing actually helpful for learning?", answer: "Yes, it is the most helpful thing you can do. Professional calligraphers learn historically by tracing master manuscripts. Tracing forces your hand to bypass your bad habits and mimic the exact kinetic movement needed for perfection." },
+      { question: "What is a 'Slant Guide' worksheet?", answer: "A slant guide is a blank worksheet covered in lightly printed diagonal lines (usually set to exactly 55 degrees). You use these lines as strict fences to ensure every single vertical downstroke you draw leans back at the identical, perfect angle." }
     ]
   },
 
   "easy-calligraphy-words-for-beginners": {
     sections: [
       {
-        id: "starter-words",
-        title: "Best Words to Start With",
+        id: "hook-answer",
+        title: "Easy Calligraphy Words to Practice First",
         content: [
-          { type: "paragraph", text: "Begin with words that use simple letter combinations and common strokes. These build confidence while reinforcing fundamental techniques." },
+          { type: "paragraph", text: "The absolute easiest word to write in calligraphy for a beginner is 'minimum'. Because it consists entirely of repeating 'underturn' and 'overturn' shapes without any tall loops or deep descending tails, practicing 'minimum' forces your hand to lock into perfect rhythmic spacing and consistency." }
+        ]
+      },
+      {
+        id: "what-you-will-learn",
+        title: "What You'll Learn",
+        content: [
           { type: "list", items: [
-            "Two-letter words: in, an, at, it, on, up",
-            "Underturn words: min, inn, nun, unit",
-            "Overturn words: man, men, run, nun",
-            "Oval words: coo, moon, noon, soon",
-            "Mixed words: aim, name, time, mine"
+            "Why the word 'minimum' is the holy grail of calligraphy practice.",
+            "Words to aggressively avoid when you are just starting.",
+            "How to master the fundamental stroke connections by typing words.",
+            "The easiest alphabet letters."
           ]}
         ]
       },
       {
-        id: "practice-words",
-        title: "Practice Word Categories",
+        id: "core-concept",
+        title: "The Core Concept: Stroke Repetition",
+        content: [
+          { type: "paragraph", text: "Calligraphy is about spacing geometry. If you try to write the word 'butterfly' on day one, you must manage two tall loops (tt), a swooping descending loop (y), and an 'f' which spans both above and below the line. It is overwhelming. You must start with Monoline words—words that stay perfectly within the middle waistline/x-height boundaries, requiring only standard up-and-down pressure pivots." }
+        ]
+      },
+      {
+        id: "practical-guide",
+        title: "Step-by-Step Practical Guide: The Beginner Word List",
+        content: [
+          { type: "paragraph", text: "Follow this exact word progression:" },
+          { type: "ordered-list", items: [
+            "Phase 1: The Monolines. Write 'minimum', 'nun', 'man', 'in', 'me'. Focus entirely on ensuring every downstroke is exactly the same thickness, and every space between the letters is identical.",
+            "Phase 2: The Ovals. Write 'moon', 'noon', 'cow', 'ocean'. Focus on dropping the heavy pressure on the left curve of the oval, and snapping to a hairline on the right side.",
+            "Phase 3: The Single Ascenders. Write 'hello', 'little', 'hill'. Focus on keeping the tall 'l' and 'h' loops perfectly parallel to the 55-degree slant guide.",
+            "Phase 4: The Single Descenders. Write 'play', 'joy', 'jump'. Focus on pulling the heavy pressure down below the baseline, and gracefully sweeping the hairline back up through the intersection."
+          ]}
+        ]
+      },
+      {
+        id: "pro-mistakes",
+        title: "Beginner Mistakes & Pro Tips",
+        content: [
+          { type: "paragraph", text: "A massive mistake is trying to write your own name first. Names often contain tricky capital letters and awkward combinations (like 'Br' or 'Wr'). You will get frustrated. Put your ego aside and write drill words." },
+          { type: "tip", text: "Exhale softly when you execute a heavy downstroke. It relaxes the muscles, makes the stroke smoother, and prevents hand cramping." },
+          { type: "callout", text: "Lift the pen! To write 'minimum', you must pick up the pen off the paper over 15 separate times. You are not writing cursive; you are piecing together strokes." }
+        ]
+      },
+      {
+        id: "styles",
+        title: "Words to Avoid on Day One",
         content: [
           { type: "list", items: [
-            "Greetings: hello, welcome, thanks",
-            "Positive words: love, joy, hope, peace",
-            "Nature: sun, moon, star, rain",
-            "Time: today, forever, always",
-            "Names: practice common names in your life"
-          ]},
-          { type: "tip", text: "Write words that have personal meaning. Emotional connection to your practice material increases engagement and retention." }
+            "Words with 'f', 'k', or 'x'. These are historically the hardest letters to connect and balance.",
+            "Words with double ascending and descending loops back-to-back (e.g., 'juggling').",
+            "Anything with capital letters. Stick strictly to lowercase until rhythm is achieved."
+          ]}
+        ]
+      },
+      {
+        id: "structured-breakdown",
+        title: "Difficulty Tier Practice List",
+        content: [
+          { 
+            type: "table", 
+            headers: ["Difficulty Level", "Practice Words", "What it Teaches"],
+            rows: [
+              ["Level 1 (Easiest)", "minimum, in, an, men, run", "Consistency and Spacing inside x-height"],
+              ["Level 2 (Ovals)", "moon, coo, ace, noon", "Pressure transitions on circular curves"],
+              ["Level 3 (Ascenders)", "hello, tall, chill, lit", "Parallel slanting and loop geometry"],
+              ["Level 4 (Descenders)", "joy, gap, play, zigzag", "Below-baseline sweeping and crossing"]
+            ]
+          }
+        ]
+      },
+      {
+        id: "conclusion",
+        title: "Conclusion & Next Steps",
+        content: [
+          { type: "paragraph", text: "The magic of calligraphy is unlocked through highly targeted, boring repetition. Master the word 'minimum' using a grid worksheet and a firm brush pen. Once that word looks flawless, the rest of the alphabet will rapidly fall into place." }
         ]
       }
     ],
     faqs: [
-      { question: "How many times should I write each word?", answer: "Write each word at least 5-10 times before moving on. Focus on consistency between repetitions rather than quantity." },
-      { question: "Should I practice capital letters in words?", answer: "Yes, include capitalized words in your practice to build complete sentences and work on capital-to-lowercase transitions." }
+      { question: "Why is the word 'minimum' so important in calligraphy?", answer: "The word 'minimum' is constructed entirely out of 'i', 'n', 'm', and 'u'. These letters are made exclusively of the 'Underturn' and 'Overturn' foundational strokes. Drilling it forces raw consistency without the distraction of loops." },
+      { question: "Should I practice writing my own name?", answer: "Eventually yes, but not in the first week. Capital letters follow much more complex geometric rules and throw beginners off balance. Learn to space lowercase letters flawlessly first." },
+      { question: "How many times should I practice one word?", answer: "Do not move to a new word until you can write the current word 5 times in a row where they look so identical they appear to be photocopied. Consistency is the definition of calligraphy." }
     ]
   },
 
   "calligraphy-design-ideas-for-instagram": {
     sections: [
       {
-        id: "content-types",
-        title: "Popular Calligraphy Content Types",
+        id: "hook-answer",
+        title: "Calligraphy Design Ideas for Instagram Growth",
+        content: [
+          { type: "paragraph", text: "Instagram algorithms massively prioritize high-retention video content. To rapidly grow a calligraphy account, stop posting static photos of finished quotes. Instead, you must film highly-lit, top-down 'macro' videos of wet ink trailing out of the nib as you execute a complex flourish or write a deeply satisfying, smooth downstroke." }
+        ]
+      },
+      {
+        id: "what-you-will-learn",
+        title: "What You'll Learn",
         content: [
           { type: "list", items: [
-            "Quote posts with beautiful layouts",
-            "Process videos showing creation",
-            "Before-and-after progress shots",
-            "Alphabet showcases in various styles",
-            "Daily lettering challenges",
-            "Behind-the-scenes studio content"
+            "Why ASMR (Audio) is just as important as the visual video.",
+            "The 3 highest-performing content formats for lettering accounts.",
+            "How to structure an engaging Carousel post.",
+            "Why writing names generates viral shares."
           ]}
         ]
       },
       {
-        id: "visual-tips",
-        title: "Creating Visually Appealing Posts",
+        id: "core-concept",
+        title: "The Core Concept: The 'Oddly Satisfying' Metric",
         content: [
-          { type: "list", items: [
-            "Use consistent color schemes across posts",
-            "Photograph in natural light",
-            "Include tools and supplies in shots",
-            "Show hands in process shots for connection",
-            "Use clean, uncluttered backgrounds",
-            "Consider adding subtle shadows for dimension"
-          ]},
-          { type: "tip", text: "Create templates for consistent styling. This saves time and builds recognizable brand aesthetic." }
+          { type: "paragraph", text: "People watch calligraphy on social media because it is mesmerizing, therapeutic, and 'oddly satisfying'. The viewer is hooked by the physics of the ink and the precision of your hand. When you post a static picture, they look for one second and scroll. When you post a zoomed-in video of a gold metallic watercolor bleeding into a wet black line, they will watch it loop five times." }
         ]
       },
       {
-        id: "engagement",
-        title: "Building Engagement",
+        id: "practical-guide",
+        title: "Step-by-Step Practical Guide: The Viral 'Name Drop' Video",
+        content: [
+          { type: "paragraph", text: "Follow this blueprint to create a highly shareable Reel:" },
+          { type: "ordered-list", items: [
+            "Step 1: The Setup. Mount your phone on a cheap ring-light tripod directly above your desk, pointing straight down. Turn off the room lights to remove shadows, relying entirely on the ring light.",
+            "Step 2: The Audio. Turn your microphone volume up. The scratching sound of a metal nib or the squeak of a brush pen is premium ASMR content.",
+            "Step 3: The Hook (0-3 Seconds). Tell them what you are doing in text: 'Writing the prettiest name requested'. Start writing immediately. Do not have a 2-second intro of a blank page.",
+            "Step 4: Execute the 'Satisfying' Move. Plan a massive, looping entrance flourish or an ink-drop blend in the middle of the name.",
+            "Step 5: The Call to Action. Finish the video by pointing to the word. In the caption, write: 'Comment your name below and I might write it tomorrow!'"
+          ]}
+        ]
+      },
+      {
+        id: "pro-mistakes",
+        title: "Beginner Mistakes & Pro Tips",
+        content: [
+          { type: "paragraph", text: "A fatal mistake is filming with your hand blocking the pen tip. If you are right-handed and film from the right side, the viewer literally cannot see the ink hitting the paper. Film from the top-left if you are right-handed." },
+          { type: "tip", text: "Use bleed-proof, highly textured paper (like cold-press watercolor paper) in videos. The rough texture creates louder, crisp ASMR sounds that viewers love." },
+          { type: "callout", text: "Stop using overly complex, unreadable Gothic scripts in quick Reels. Most users are scrolling rapidly. If they can't instantly read the quote, they won't like it. Stick to clean modern brush script or elegant Copperplate." }
+        ]
+      },
+      {
+        id: "styles",
+        title: "Top Content Pillars",
         content: [
           { type: "list", items: [
-            "Post at consistent times",
-            "Use relevant hashtags without overdoing it",
-            "Engage with other calligraphers",
-            "Share tips and tutorials",
-            "Ask questions in captions",
-            "Respond to comments promptly"
+            "The Educational Carousel: 5 swipeable images explaining a single technique (e.g., 'How to hold a brush pen'). Save rates are massive on these.",
+            "The Real-Time vs Sped Up: Show the agonizingly slow reality of drawing an oval, then show the sped-up final piece.",
+            "The Tool Review: Uncapping a brand-new, juicy pen and making the first mark on paper."
           ]}
+        ]
+      },
+      {
+        id: "structured-breakdown",
+        title: "Instagram Algorithm Matrix",
+        content: [
+          { 
+            type: "table", 
+            headers: ["Content Format", "Algorithm Reward", "Best Use Case"],
+            rows: [
+              ["Macro Macro Reels (Close up)", "High Watch Time / Looping", "Hypnotic flourishes, ink mixing"],
+              ["Name Requests (Reels)", "Massive Viral Commenting", "Account growth and shares"],
+              ["Educational Carousels", "High Saves & Bookmarks", "Building Authority / Reposting"],
+              ["Static Final Photos", "Low Reach (Usually)", "Portfolio showcase to existing fans"]
+            ]
+          }
+        ]
+      },
+      {
+        id: "conclusion",
+        title: "Conclusion & Next Steps",
+        content: [
+          { type: "paragraph", text: "To conquer Instagram, you must become a videographer as much as a calligrapher. Buy a $20 overhead phone mount, use a bright desk lamp, turn on the microphone, and film the raw process of ink hitting paper. The messier and raw the process looks, the more engagement it receives." }
         ]
       }
     ],
     faqs: [
-      { question: "What size should calligraphy posts be?", answer: "Square posts (1080x1080px) work well for feed posts. Stories should be 1080x1920px. Consider how your work will be cropped in thumbnails." },
-      { question: "Should I watermark my work?", answer: "Subtle watermarks protect your work without distracting from it. Place them where they cannot be easily cropped out." }
+      { question: "How do I get my white paper to look actually white in photos?", answer: "Edit your photos using Lightroom Mobile (free). Increase the 'Whites' slider and decrease the 'Warmth' slightly to remove the yellow tint from indoor lightbulbs." },
+      { question: "Are hashtags still relevant for calligraphy?", answer: "Yes, but they are localized now. Using #Calligraphy (with 20 million posts) is useless. Use hyper-specific tags like #TombowFudenosuke, #CopperplatePractice, and #HandLetteringDaily to target actual communities." },
+      { question: "Should I post mistakes?", answer: "Absolutely. Posting a blooper reel where a huge drop of ink ruins a piece humanizes you entirely. These often perform better than perfect artwork because people relate to the struggle." }
     ]
   },
 
   "calligraphy-logo-design-ideas": {
     sections: [
       {
-        id: "styles",
-        title: "Logo Style Options",
+        id: "hook-answer",
+        title: "Calligraphy Logo Design Concepts",
+        content: [
+          { type: "paragraph", text: "A calligraphy logo must survive the 'Favicon Test'. If your elaborate, flourished script becomes an illegible blob of ink when shrunk to the size of a browser tab icon (16x16 pixels), you have failed as a designer. The most powerful calligraphy logos contrast a single, simple, heavily-flourished Initial with stark, rigid, sans-serif typography underneath." }
+        ]
+      },
+      {
+        id: "what-you-will-learn",
+        title: "What You'll Learn",
         content: [
           { type: "list", items: [
-            "Monogram logos using initials",
-            "Full name hand-lettered logos",
-            "Combination of calligraphy and simple type",
-            "Flourished signature style",
-            "Minimalist script logos",
-            "Vintage-inspired ornate designs"
+            "Why Monoline scripts are vastly superior to Brush scripts for scalable logos.",
+            "How to structure the 'Calligraphy + Serif' contrast.",
+            "The danger of thin hairlines in vector printing.",
+            "Why symmetry beats natural handwriting in corporate design."
           ]}
         ]
       },
       {
-        id: "considerations",
-        title: "Design Considerations",
+        id: "core-concept",
+        title: "The Core Concept: Scalability vs Flourish",
+        content: [
+          { type: "paragraph", text: "Masterpiece calligraphy looks beautiful when written largely on watercolor paper. However, a logo must be printed on massive billboards, tiny business cards, and embroidered onto low-resolution fabric shirts. If your calligraphy relies on microscopic, razor-thin hairlines, those lines will physically vanish when printed on a shirt, leaving only floating downstrokes. A logo must be structurally thick, optically balanced, and instantly legible in pure black-and-white." }
+        ]
+      },
+      {
+        id: "practical-guide",
+        title: "Step-by-Step Practical Guide: Designing the Mark",
+        content: [
+          { type: "paragraph", text: "Follow this professional sequence to draft a logo:" },
+          { type: "ordered-list", items: [
+            "Step 1: The Broad Pen Draft. Draft your idea using a Monoline tool (like a thick Sharpie or micron pen) rather than a flex-nib. This forces you to focus purely on the geometry and shape of the letters rather than relying on thick/thin pressure tricks.",
+            "Step 2: The Core Contrast. Use Calligraphy ONLY for the primary brand name. Beneath it, use a highly structured, plain, spaced-out font (like Futura or Helvetica) for the tagline (e.g., 'PHOTOGRAPHY' or 'COFFEE').",
+            "Step 3: The Silhouette Check. Color the entire logo solid black. Does it look like a cohesive shape? Are there random pieces sticking out? Trim the excess.",
+            "Step 4: Vectorization. You cannot use a JPEG for a logo. You must scan the artwork into Adobe Illustrator and trace it into a mathematically perfect Vector (SVG) format."
+          ]}
+        ]
+      },
+      {
+        id: "pro-mistakes",
+        title: "Beginner Mistakes & Pro Tips",
+        content: [
+          { type: "paragraph", text: "The biggest beginner mistake is using a default 'Calligraphy Font' from Canva or DaFont, typing it out, and calling it a logo. Millions of people have that exact same font. A professional logo requires manually writing, connecting, and customizing the letters so the mark is 100% unique." },
+          { type: "tip", text: "Slightly thicken the upstrokes (hairlines) when designing a logo. While paper calligraphy demands delicate thin lines, logo hairlines need to be beefed up by about 30% so they survive digital screen compression." },
+          { type: "callout", text: "Never design a logo with an active gradient or watercolor brush texture. A logo's fundamental shape must work in 1-color (pure black ink on white paper). Gradients are added later as optional branding." }
+        ]
+      },
+      {
+        id: "styles",
+        title: "Popular Logo Frameworks",
         content: [
           { type: "list", items: [
-            "Ensure legibility at small sizes",
-            "Test in black and white",
-            "Consider various application contexts",
-            "Balance creativity with readability",
-            "Match style to brand personality"
-          ]},
-          { type: "tip", text: "A logo must work at small sizes. If your calligraphy is too detailed, simplify until it reads clearly as a favicon." }
+            "The Monogram Seal: First and Last Initial interlocked with heavy flourishing, surrounded by a circular crest.",
+            "The Signature: A highly slanted, fast, chaotic script mimicking a celebrity signature. Used heavily by photographers.",
+            "The Monoline Badge: Zero thickness variation. Think of neon-sign tubing shaped into beautiful cursive words."
+          ]}
+        ]
+      },
+      {
+        id: "structured-breakdown",
+        title: "Font Pairing Matrix",
+        content: [
+          { 
+            type: "table", 
+            headers: ["Calligraphy Style (Brand)", "Connecting Font (Tagline)", "Brand Vibe"],
+            rows: [
+              ["Elegant Formal Copperplate", "Wide Serif (e.g., Trajan)", "Luxury, Wedding, High-End"],
+              ["Bouncy Modern Brush", "Clean Sans-Serif (e.g., Montserrat)", "Creative, Youthful, Approachable"],
+              ["Sharp Gothic Blackletter", "Heavy Block Print", "Tattoo shop, Craft Beer, Edgy"],
+              ["Messy Signature Script", "Spaced Typewriter Font", "Photography, Art Studio, Personal"]
+            ]
+          }
+        ]
+      },
+      {
+        id: "conclusion",
+        title: "Conclusion & Next Steps",
+        content: [
+          { type: "paragraph", text: "Calligraphy makes for stunning logos, provided you respect graphic design rules. Strip away the delicate fluff. Make the lines bold, prioritize legibility from far away, and pair the swirling script with a rock-solid, boring sub-font to anchor the design." }
         ]
       }
     ],
     faqs: [
-      { question: "How do I make my logo versatile?", answer: "Create multiple versions: full color, single color, horizontal, stacked, and icon-only. This ensures your logo works in any context." },
-      { question: "Should calligraphy logos include flourishes?", answer: "Use flourishes sparingly and ensure they do not impede legibility. What looks beautiful large may become confusing when scaled down." }
+      { question: "How do I turn my paper calligraphy into a digital logo?", answer: "Scan the paper at 600dpi. Import it into Adobe Illustrator. Do not use the automatic 'Image Trace'—it makes the edges look jagged and wavy. Instead, manually trace the letters using the 'Pen Tool' for mathematically perfect curves." },
+      { question: "Should my Calligraphy logo be colored?", answer: "No. The logo itself is a shape, not a color. Design it entirely in black. Once the black silhouette is perfect, you can apply brand colors (like Navy or Gold foil) to the final files." },
+      { question: "Are flourishing loops bad for logos?", answer: "Not inherently, but they create 'trapped white space'. If you have a massive loop, you have to carefully balance the rest of the logo so that empty hole doesn't pull the viewer's eye awkwardly away from the name." }
     ]
   },
 
   "how-to-write-numbers-in-calligraphy": {
     sections: [
       {
-        id: "importance",
-        title: "Why Numbers Matter in Calligraphy",
+        id: "hook-answer",
+        title: "How to Write Numbers in Calligraphy",
         content: [
-          { type: "paragraph", text: "Numbers appear in dates, addresses, years, and countless other contexts. Beautiful calligraphy with awkward numbers looks incomplete." },
-          { type: "paragraph", text: "Each number should match the style of your letters while maintaining clear readability. Dates especially deserve attention since they mark important moments." }
+          { type: "paragraph", text: "Calligraphy numbers follow the exact same pressure mechanics as the alphabet, yet most beginners awkwardly scribble them using their standard handwriting. To write elegant wedding dates or formal figures, you must break numbers to their core strokes: treating '8' like two stacked ovals, and '3' like two connected overturns." }
         ]
       },
       {
-        id: "techniques",
-        title: "Number Writing Techniques",
+        id: "what-you-will-learn",
+        title: "What You'll Learn",
         content: [
           { type: "list", items: [
-            "0: Full oval, matching the o in your alphabet",
-            "1: Simple downstroke with optional serif",
-            "2: Curve flowing into diagonal",
-            "3: Two stacked curves",
-            "4: Angle meeting vertical, open or closed",
-            "5: Horizontal, vertical, then bottom curve",
-            "6: One continuous stroke curving into oval",
-            "7: Horizontal with angled downstroke",
-            "8: Two connected ovals",
-            "9: Oval with descending tail"
-          ]},
-          { type: "tip", text: "Practice numbers in sequence (1234567890) and in common date formats to build practical skill." }
+            "The difference between 'Lining Figures' and 'Old-Style Figures'.",
+            "How to structure the notoriously difficult numbers 5, 8, and 0.",
+            "Why numbers must strictly adhere to the 55-degree slant guide.",
+            "Rules for writing dates on wedding envelopes."
+          ]}
+        ]
+      },
+      {
+        id: "core-concept",
+        title: "The Core Concept: Structural Geometry",
+        content: [
+          { type: "paragraph", text: "If you draw a beautiful calligraphy word like 'January' and then write the number '14' next to it using a standard ballpoint pen motion, it destroys the optical illusion. Numbers must be built, lifted, and pressed exactly like letters. When writing numbers, the downstrokes must carry the identical heavy thickness as the downstrokes in your letters. They must also perfectly match the slant angle." }
+        ]
+      },
+      {
+        id: "practical-guide",
+        title: "Step-by-Step Practical Guide: Number Geometry",
+        content: [
+          { type: "paragraph", text: "Here is how to deconstruct and draw the numbers properly:" },
+          { type: "ordered-list", items: [
+            "The Zero (0): This is not your standard 'O'. It must be narrow, drawn like an oval fundamental stroke. Heavy pressure on the left, hairline on the right.",
+            "The Three (3): Do not draw this continuously. Draw a tight C-curve on top, lift your pen, and draw a slightly larger C-curve underneath it.",
+            "The Five (5): Draw a short, heavy vertical line. Lift. Draw a massive C-curve underneath. Lift. Finally, strike a thin horizontal crossbar at the very top.",
+            "The Eight (8): Drawing this in an 'S' shape usually results in uneven angles. Draw a small oval on top, lift the pen, and draw a large oval directly beneath it."
+          ]}
+        ]
+      },
+      {
+        id: "pro-mistakes",
+        title: "Beginner Mistakes & Pro Tips",
+        content: [
+          { type: "paragraph", text: "The most common flaw is failing to establish an x-height rule for numbers. Some beginners write a tiny '1' and a massive '9'. Unless you are intentionally writing Old-Style figures, every single number must be identically tall—resting perfectly on the baseline and touching the ascender line." },
+          { type: "tip", text: "When writing out dates like (10/24/2026), do not use a harsh slash (/). It looks aggressive. Use a small, decorative diamond dot (·) or an elegant hairline dash (-) to separate the figures." },
+          { type: "callout", text: "The number Seven (7) involves a notoriously wobbly downstroke. If you struggle to keep the sweeping descent straight, draw it slightly faster than standard. Momentum forces the line to straighten." }
+        ]
+      },
+      {
+        id: "styles",
+        title: "Lining vs Old-Style Figures",
+        content: [
+          { type: "list", items: [
+            "Modern Lining Figures: Every number is exactly the same height (like typing on a keyboard). Clean, professional, and standard for modern brush script.",
+            "Old-Style Figures (Non-Lining): The numbers bounce. The 3, 4, 5, 7, and 9 drop below the baseline like descenders (y, g). The 6 and 8 stretch up top. This looks incredibly antique and beautiful in Copperplate."
+          ]}
+        ]
+      },
+      {
+        id: "structured-breakdown",
+        title: "Number Deconstruction Chart",
+        content: [
+          { 
+            type: "table", 
+            headers: ["The Number", "Primary Calligraphy Strokes Used", "Where to apply Heavy Pressure"],
+            rows: [
+              ["1 or 7", "Straight Diagonal Descender", "The entire vertical shaft"],
+              ["2 or 3", "Overturns and C-Curves", "The downward arc of the curve"],
+              ["4", "Verticals and Crossbars", "The main, longest vertical stem ONLY"],
+              ["6 or 9", "Ovals combined with Ascenders", "The left side of the looped oval"]
+            ]
+          }
+        ]
+      },
+      {
+        id: "conclusion",
+        title: "Conclusion & Next Steps",
+        content: [
+          { type: "paragraph", text: "Treat numbers with the exact same respect you treat letters. Map them out, draw them in pieces, and heavily exaggerate the contrast between the thick downstrokes and thin upstrokes. Fill an entire worksheet just writing '2026' until the zeroes are mathematically perfect." }
         ]
       }
     ],
     faqs: [
-      { question: "Should numbers have the same slant as letters?", answer: "Yes. Matching slant between numbers and letters creates visual harmony. Inconsistent angles look amateur." },
-      { question: "How do I make numbers look elegant?", answer: "Focus on consistent sizing, matching style to your letters, and adding subtle stroke variation. Avoid over-embellishing, which can hurt legibility." }
+      { question: "Should I write out numbers as words instead? (e.g., 'Twenty' vs '20')", answer: "For formal wedding invitations, tradition dictates writing the year and date as full words ('The Twenty-Fourth of October'). For modern signage or casual art, numeric figures are perfectly fine." },
+      { question: "Why does my number '8' look like a crooked snowman?", answer: "Because you are trying to draw it in one continuous, cursive motion like a figure-eight. Calligraphy requires lifting. Draw an 'S' shape down, lift, and draw an upward 'S' shape to close it." },
+      { question: "Do numbers get flourished?", answer: "Very rarely. Adding flourishes to a '2' can make it read as a 'Q' or a 'Z' to the postal service. Legibility is paramount with numbers. Keep the bodies clean and only flourish the very end of the final digit." }
     ]
   },
 
   "how-to-connect-letters-in-calligraphy": {
     sections: [
       {
-        id: "fundamentals",
-        title: "Connection Fundamentals",
+        id: "hook-answer",
+        title: "How to Connect Letters in Calligraphy",
         content: [
-          { type: "paragraph", text: "Letter connections are what transform individual letters into flowing script. The exit stroke of one letter should naturally lead into the entrance stroke of the next." },
-          { type: "paragraph", text: "Not all letter combinations connect in the same way. Understanding different connection types helps you navigate any word smoothly." }
+          { type: "paragraph", text: "The secret to bridging letters flawlessly is mastering the 'Exit Stroke'. Every single lowercase letter built in calligraphy must finish with a 55-degree ascending hairline tail that perfectly intersects the waistline. This tail acts as the docking station—you simply place the starting point of the next letter directly on top of that tail." }
         ]
       },
       {
-        id: "connection-types",
-        title: "Types of Connections",
+        id: "what-you-will-learn",
+        title: "What You'll Learn",
         content: [
           { type: "list", items: [
-            "Baseline connections: Most common, letters connect at writing line",
-            "High connections: Letters like o and v exit high",
-            "Low connections: Some letters require lifting and rejoining",
-            "Diagonal connections: Cross from one letter into another",
-            "Pen-lift connections: Brief lift required between certain pairs"
-          ]},
-          { type: "tip", text: "Practice common letter pairs like th, an, er, and in until connections feel automatic." }
+            "Why cursive handwriting rules destroy calligraphy spacing.",
+            "The magic of the 'Exit Stroke'.",
+            "How to map 'High Connectors' like o, v, and w.",
+            "The illusion of continuous ink without actually dragging the pen."
+          ]}
         ]
       },
       {
-        id: "practice",
-        title: "Connection Practice Strategies",
+        id: "core-concept",
+        title: "The Core Concept: The Illusion of Cursive",
         content: [
+          { type: "paragraph", text: "Calligraphy looks like cursive, but it is not. Cursive is written rapidly without lifting the pen. Calligraphy is an optical illusion created by aligning puzzle pieces. You draw an 'a', lift your pen, draw an ascending tail, lift your pen, and then draw the main stem of a 'b' directly on top of that tail. The gap is hidden beneath the heavy downstroke, making the word appear to flow effortlessly as if drawn in one motion. You must lift your pen between every letter." }
+        ]
+      },
+      {
+        id: "practical-guide",
+        title: "Step-by-Step Practical Guide: The Connection Formula",
+        content: [
+          { type: "paragraph", text: "Connecting letters is a rigid, mathematical process:" },
           { type: "ordered-list", items: [
-            "Write pangrams that include many letter combinations",
-            "Practice the word minimum for its challenging connections",
-            "Focus on problematic pairs in isolation",
-            "Write common words repeatedly for muscle memory",
-            "Analyze connections in work you admire"
+            "Step 1: Finish the First Letter. Draw the letter 'm'. As you reach the bottom baseline of the final arch, release all pressure.",
+            "Step 2: Draw the Exit Stroke. Curve upward from the baseline, drawing a hairline strictly at a 45-to-55 degree angle, stopping exactly at the waistline/x-height.",
+            "Step 3: Lift and Reset. Physically pick the pen up. Rest your hand.",
+            "Step 4: Draw the Next Stroke. If the next letter is an 'i', simply place the pen exactly on the tip of the exit stroke line you just drew, and pull a heavy downstroke. The seam where the two lines meet is crushed and hidden by the heavy ink."
           ]}
+        ]
+      },
+      {
+        id: "pro-mistakes",
+        title: "Beginner Mistakes & Pro Tips",
+        content: [
+          { type: "paragraph", text: "The most common and ugliest mistake is failing to extend the exit stroke all the way to the waistline. If you stop the tail halfway up, and then start the next letter from the top, you leave a nasty, disconnected gap. The exit stroke must be a complete ramp." },
+          { type: "tip", text: "Leave generous space! The exit stroke should smoothly travel up and to the right. If you crowd your letters, the exit stroke points straight up vertically, making the word look compressed and anxious." },
+          { type: "callout", text: "Letters with Ovals (like a, o, c, d) are tricky because their right side is thin. When you attach an exit stroke to a thin oval, be extremely delicate, so it looks like a natural branching vein, not a thick block." }
+        ]
+      },
+      {
+        id: "styles",
+        title: "The 'High Connector' Exception",
+        content: [
+          { type: "list", items: [
+            "Baseline Connectors: 90% of the alphabet (a, e, h, m, etc). The tail scoops from the bottom baseline.",
+            "High Connectors (The Exceptions): The letters 'o', 'v', 'w', and sometimes 'b'. These letters finish at the TOP waistline. Their exit stroke shoots horizontally across the top, dipping slightly like a tiny smile before attaching directly to the top of the next letter."
+          ]}
+        ]
+      },
+      {
+        id: "structured-breakdown",
+        title: "Troubleshooting Connections",
+        content: [
+          { 
+            type: "table", 
+            headers: ["Visual Error", "The Cause", "The Fix"],
+            rows: [
+              ["Words look tangled/messy", "Writing cursively without lifting pen", "Lift pen after every single downstroke"],
+              ["The letters look too scrunched", "Exit stroke angle is too vertical", "Stretch the exit stroke further right"],
+              ["There are gaps between letters", "Starting the next letter too far away", "Start the next letter EXACTLY on the tip of the tail"],
+              ["The 'o' droops down awkwardly", "Pulling a baseline tail from an 'o'", "Keep the 'o' tag high and horizontal"]
+            ]
+          }
+        ]
+      },
+      {
+        id: "conclusion",
+        title: "Conclusion & Next Steps",
+        content: [
+          { type: "paragraph", text: "Do not force your letters to touch; build the bridges that allow them to meet. Drill your 'Underturns' until the exiting flick becomes automatic. When every letter has a perfect tail, assembling words becomes incredibly easy." }
         ]
       }
     ],
     faqs: [
-      { question: "Should all letters in a word connect?", answer: "Not necessarily. Some calligraphy styles use pen lifts between certain letters. What matters is consistency within your chosen style." },
-      { question: "Why do my connections look awkward?", answer: "Usually caused by inconsistent exit stroke angles or heights. Practice entrance and exit strokes in isolation until they flow naturally together." }
+      { question: "Should I connect capital letters to the rest of the word?", answer: "Typically, no. In classical calligraphy (and highly stylized modern brush script), the Capital Letter is a standalone art piece. It is drawn beautifully on its own, and the lowercase letters begin distinctly to its right." },
+      { question: "How do I connect a letter 'o' to a letter 'r'?", answer: "Since 'o' is a High Connector, you draw a tiny swooping bridge from the top-right of the 'o', directly over to the top left tip of the 'r'. The pen never travels down to the baseline in between." },
+      { question: "Why is the ink smudging when my lines overlap?", answer: "If you use a wet, juicy brush pen, intersecting lines quickly can cause pooling. Practice pausing for one half-second before dropping the next heavy downstroke onto the exit tail." }
     ]
   },
 
   "calligraphy-spacing-techniques": {
     sections: [
       {
-        id: "letter-spacing",
-        title: "Letter Spacing Principles",
+        id: "hook-answer",
+        title: "Calligraphy Spacing: The Secret to Rhythm",
         content: [
-          { type: "paragraph", text: "Good letter spacing is optical, not mechanical. The goal is equal visual weight between letters, not equal physical distance." },
+          { type: "paragraph", text: "The hallmark of professional calligraphy is optical, identical spacing, often referred to as 'Rhythm'. If the white space inside the loop of your 'l' is visually larger than the white space between your 'l' and 'e', the word will look amateur, regardless of how beautifully drawn the individual letters are. Spacing is the invisible glue of lettering." }
+        ]
+      },
+      {
+        id: "what-you-will-learn",
+        title: "What You'll Learn",
+        content: [
           { type: "list", items: [
-            "Straight-to-straight: Most space (in, nn, mn)",
-            "Straight-to-curve: Medium space (an, nc, nd)",
-            "Curve-to-curve: Least space (oo, co, oc)",
-            "Letters with open space: Compensate accordingly"
+            "Why physical spacing and 'optical' spacing are not the same thing.",
+            "The 'Picket Fence' analogy for spacing downstrokes.",
+            "How to mentally kerning letters before drawing them.",
+            "The three distinct types of letter collisions (Straight, Curve, Open)."
           ]}
         ]
       },
       {
-        id: "word-spacing",
-        title: "Word and Line Spacing",
+        id: "core-concept",
+        title: "The Core Concept: The Picket Fence",
         content: [
-          { type: "paragraph", text: "Word spacing typically equals the width of a lowercase n in your script. Line spacing depends on ascender and descender length." },
-          { type: "tip", text: "Write the word minimum several times. Its consistent vertical strokes make spacing inconsistencies immediately obvious." }
+          { type: "paragraph", text: "Imagine looking at a white picket fence. Every wooden plank is the same width, and the dark gap between every plank is exactly the same width. This creates a mesmerizing rhythm. Calligraphy operates on the exact same logic. Every heavy downstroke is a wooden plank. The white space inside an 'n' must perfectly match the white space between the 'n' and the 'm' that follows it. You are trying to create an unbroken fence of parallel lines." }
         ]
       },
       {
-        id: "common-problems",
-        title: "Solving Spacing Problems",
+        id: "practical-guide",
+        title: "Step-by-Step Practical Guide: Optical Kerning",
+        content: [
+          { type: "paragraph", text: "Different letter shapes require different distance rules to trick the brain into seeing equal spacing:" },
+          { type: "ordered-list", items: [
+            "Rule 1: Straight-to-Straight (e.g., i, n, m, p). When two straight vertical downstrokes are next to each other, you must use the MAX amount of connecting distance. (e.g., the span between 'i' and 'n').",
+            "Rule 2: Straight-to-Curve (e.g., n to e). When a straight vertical line sits next to a curved oval, you must bring them slightly closer together to compensate for the curved white space.",
+            "Rule 3: Curve-to-Curve (e.g., o to o). When two ovals sit next to each other, they create a massive hourglass of white space. You must push them very close together, almost touching, so the gap doesn't look like an empty canyon."
+          ]}
+        ]
+      },
+      {
+        id: "pro-mistakes",
+        title: "Beginner Mistakes & Pro Tips",
+        content: [
+          { type: "paragraph", text: "The worst spacing mistake is drawing long exit strokes simply because you want the word to stretch. Stretching the hairline bridge between an 'h' and a 'e' completely destroys the picket-fence rhythm of the word." },
+          { type: "tip", text: "Turn your paper upside down! When you flip your quote upside down, your brain cannot immediately read the words, forcing it to judge the abstract shapes and blank gaps. It is the fastest way to identify a spacing error." },
+          { type: "callout", text: "Always look at the previous letter. Do not hyper-focus on the 'a' you are drawing right now; 50% of your visual attention must remain locked on the 'c' behind it to ensure the gap remains proportional." }
+        ]
+      },
+      {
+        id: "styles",
+        title: "Spacing by Calligraphy Style",
         content: [
           { type: "list", items: [
-            "Letters too close: Slow down, use guidelines",
-            "Letters too far: Practice connecting strokes",
-            "Inconsistent spacing: Focus on exit stroke consistency",
-            "Crowded descenders: Increase line spacing"
+            "Copperplate / Formal: Rigid, mathematically perfect identical spacing. Extremely tight and dense.",
+            "Modern Bounce Script: Expanded, loose spacing. The white space breathes heavily, allowing the loops to drop low without tangling.",
+            "Gothic Blackletter: Microscopic spacing. The letters act like architectural bricks packed tightly together to form a solid dark block."
           ]}
+        ]
+      },
+      {
+        id: "structured-breakdown",
+        title: "Spacing Diagnostic Chart",
+        content: [
+          { 
+            type: "table", 
+            headers: ["Visual Clue", "The Spacing Error", "How to Fix It"],
+            rows: [
+              ["Words look clumped together", "Not adding enough space between physical words", "Leave a gap exactly the width of an 'O' between words"],
+              ["The word looks 'snapped in half'", "Straight-To-Straight gap is too wide", "Shorten the exit ramps on letters like 'n' and 'm'"],
+              ["The 'o's look miles apart", "Treating Curves like Lines", "Push Curve-to-Curve letters tightly against each other"],
+              ["The entire line feels chaotic", "Varying x-height sizes", "Rhythm relies on both identical width AND identical height"]
+            ]
+          }
+        ]
+      },
+      {
+        id: "conclusion",
+        title: "Conclusion & Next Steps",
+        content: [
+          { type: "paragraph", text: "Calligraphy is 50% drawing lines and 50% designing the empty white space surrounding them. Once you view the 'empty paper' as part of the structure, your work elevates from standard lettering to professional art. Master the Picket Fence." }
         ]
       }
     ],
     faqs: [
-      { question: "How do I maintain consistent spacing when writing fast?", answer: "Speed comes from mastery, not rushing. Practice slowly until spacing is automatic, then gradually increase pace while maintaining quality." },
-      { question: "Should spacing vary between styles?", answer: "Yes. Formal scripts often have tighter spacing, while casual styles may use more open spacing. Match spacing to your chosen style." }
+      { question: "How wide should the space between two separate words be?", answer: "A classic typographical rule is to imagine an invisible letter 'O' placed between the two words. That is the exact width of the gap you should leave." },
+      { question: "I struggle with spacing. Should I draw vertical grid lines?", answer: "Yes! While practicing, do not hesitate to print or draw a tight grid of perfectly vertical lines across your page. Force your heavy downstrokes to fall perfectly on those printed lines to aggressively train your muscle memory." },
+      { question: "Do flourishes ruin spacing?", answer: "They do if you force them. A flourish should only occupy natural 'dry' white space. If you have to squish the next letter to make room for a loop, the design has failed structurally." }
     ]
-  }
+  },
 }
